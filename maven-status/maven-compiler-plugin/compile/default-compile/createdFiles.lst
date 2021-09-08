@@ -36,6 +36,7 @@ org/bahmni/module/bahmnicore/web/filter/LocaleFilter.class
 org/bahmni/module/bahmnicore/web/v1_0/search/OrderSearchHandler.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniPatientProfileResource.class
 org/bahmni/module/bahmnicore/web/v1_0/VisitClosedException.class
+org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniPatientIdentifierController.class
 org/openmrs/module/bahmnicore/web/v1_0/resource/BahmniConceptAnswerResource.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniDiseaseSummaryController.class
 org/bahmni/module/bahmnicore/web/v1_0/InvalidInputException.class
@@ -55,12 +56,14 @@ org/bahmni/module/bahmnicore/web/v1_0/controller/TasksMonitoringController.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/AdminImportController.class
 org/bahmni/module/bahmnicore/web/v1_0/contract/CDADummyDoc.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/display/controls/ObsToObsTabularFlowSheetController.class
+org/bahmni/module/bahmnicore/web/v1_0/contract/AssignIdentifierRequest.class
 org/bahmni/module/bahmnicore/web/v1_0/search/BacteriologySpecimenSearchHandler.class
 org/bahmni/module/bahmnicore/web/filter/CacheHeadersFilter.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/AdminImportController$CurrentThreadConnectionProvider.class
 org/bahmni/module/bahmnicore/web/v1_0/search/BahmniConceptSearchByDataTypeHandler.class
 org/bahmni/module/bahmnicore/web/v1_0/contract/PatientContract$JsonDateSerializer.class
 org/bahmni/module/bahmnicore/web/v1_0/search/BahmniConceptAnswerSearchHandler.class
+org/bahmni/module/bahmnicore/web/v1_0/contract/CDAEncounterDocument$FlowSheetSummary.class
 org/openmrs/module/bahmnicore/web/v1_0/resource/ProgramAttributeTypeResource.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniSharedHealthRecordController.class
 org/bahmni/module/bahmnicore/web/v1_0/mapper/CustomObjectMapper.class
