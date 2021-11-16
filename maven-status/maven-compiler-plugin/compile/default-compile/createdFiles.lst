@@ -64,6 +64,7 @@ org/bahmni/module/bahmnicore/web/v1_0/search/BahmniConceptSearchByDataTypeHandle
 org/bahmni/module/bahmnicore/web/v1_0/contract/PatientContract$JsonDateSerializer.class
 org/bahmni/module/bahmnicore/web/v1_0/search/BahmniConceptAnswerSearchHandler.class
 org/bahmni/module/bahmnicore/web/v1_0/contract/CDAEncounterDocument$FlowSheetSummary.class
+org/bahmni/module/bahmnicore/web/v1_0/contract/SharedHealthRecordObsResponse.class
 org/openmrs/module/bahmnicore/web/v1_0/resource/ProgramAttributeTypeResource.class
 org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniSharedHealthRecordController.class
 org/bahmni/module/bahmnicore/web/v1_0/mapper/CustomObjectMapper.class

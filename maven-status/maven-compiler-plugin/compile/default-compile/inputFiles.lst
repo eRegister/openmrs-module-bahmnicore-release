@@ -26,6 +26,7 @@
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/controller/display/controls/DrugOGramController.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/search/BahmniConceptSearchHandler.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/controller/GlobalPropertySearchController.java
+/var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/contract/SharedHealthRecordObsResponse.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniTrendsController.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/mapper/BahmniObservationsToTabularViewMapper.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/search/BacteriologySpecimenSearchHandler.java
@@ -57,6 +58,8 @@
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/controller/search/BahmniMpiPatientSearchController.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/openmrs/module/bahmnicore/web/v1_0/resource/BahmniConceptResource.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/search/VisitFormsSearchHandler.java
+/var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/contract/AssignIdentifierRequest.java
+/var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/controller/BahmniPatientIdentifierController.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/VisitClosedException.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/search/EntityMappingSearchHandler.java
 /var/lib/jenkins/workspace/openmrs-module-bahmnicore-92/bahmnicore-omod/src/main/java/org/bahmni/module/bahmnicore/web/v1_0/search/BahmniDrugSearchHandler.java
